@@ -1,0 +1,17 @@
+execute_on_song_change="~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp_cover_art.sh"
+mpd_music_dir = ~/Music
+mpd_host = "localhost"
+mpd_port = "6677"
+playlist_display_mode = "classic"
+song_list_format = "$6{%a »$4 %t$/r$R}"
+visualizer_look = "  "
+startup_screen = visualizer
+startup_slave_screen = playlist
+startup_slave_screen_focus = yes
+locked_screen_width_part = 50
+progressbar_look = "─╼ "
+progressbar_color = "white"
+header_visibility = no
+statusbar_visibility = no
+main_window_color = "white"
+active_window_border = "white"
